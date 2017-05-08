@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/LBRCE.master" AutoEventWireup="true" CodeFile="SendMail.aspx.cs" Inherits="SendMail" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Lb.master" AutoEventWireup="true" CodeFile="SendMail.aspx.cs" Inherits="SendMail" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
 <link href="Styles/TextBox.css" rel="stylesheet" type="text/css" />
